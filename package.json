@@ -1,10 +1,13 @@
 {
-    "name" : "hackerOneHelloWorld",
-    "version" : "0.0.1",
-    "description" : "Hacker One Hello World",
-    "main" : "server.js",
-    "author" : {
-        "name" : "Brett Kan",
-        "email" : "bkfighton@gmail.com"
-    }
+  "name": "hackerOneHelloWorld",
+  "version": "0.0.1",
+  "description": "Hacker One Hello World",
+  "main": "server.js",
+  "author": {
+    "name": "Brett Kan",
+    "email": "bkfighton@gmail.com"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
