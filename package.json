@@ -1,7 +1,7 @@
 {
-  "name": "hackerOneHelloWorld",
+  "name": "react_node_boilerplate",
   "version": "0.0.1",
-  "description": "Hacker One Hello World",
+  "description": "React Node Boilerplate",
   "main": "server.js",
   "author": {
     "name": "Brett Kan",
