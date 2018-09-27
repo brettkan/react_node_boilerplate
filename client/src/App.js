@@ -17,6 +17,8 @@ class App extends Component {
                 {this.state.users.map(user =>
                    <div key={user.id}>{user.username}</div>
                 )}
+                <button>This is a button</button>
+                <input defaultValue="Here is an input" />
             </div>
         )
     }

@@ -16,3 +16,16 @@
 .app-intro {
     font-size: large;
 }
+
+button, input {
+    border: 1px solid lightgrey;
+    padding: 5px 10px;
+    font-size: 16px;
+    margin: 5px;
+}
+button {
+    cursor: pointer;
+}
+input {
+    cursor: text;
+}
